@@ -1,7 +1,4 @@
-# Voice-spoofing-detection-using-CNN-on-ASVspoof-2019
-This is the README file summarizing your Voice Anti-Spoofing Detection project, featuring the final, highly-regularized CNN-LSTM architecture and key performance metrics.
 
-***
 
 # 🎤 Voice Anti-Spoofing Detection (ASVspoof 2019 Challenge)
 
